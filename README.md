@@ -1,20 +1,3 @@
 ### Hi there 👋
 
-tasty stuff below
-
-   .
-       .
-   . ;.
-    .;
-     ;;.
-   ;.;;
-   ;;;;.
-   ;;;;;
-   ;;;;;
-   ;;;;;
-   ;;;;;
-   ;;;;;
- ..;;;;;..
-  ':::::'
-    ':`
-  
+You've stumbled upon my profile, how nice of you!
