@@ -44,7 +44,7 @@ Powerpoint at home:
 [![image.png](https://i.postimg.cc/4xc5W6nK/image.png)](https://postimg.cc/689n3Grw)
 _About thread starvation and how everytime you write a sync IO method a kitten dies_
 
-Here are some easy tricks to ensure your alpha-programmer dominance and become leader of the pack:
+Here are some easy tricks to `assert` your alpha-programmer dominance and become leader of the pack:
 - use `xor eax, eax` instead of `mov eax, 0`.
 - use `-~n` instead of `n + 1`.
 - use `n << 2` instead of `n * 2`.
