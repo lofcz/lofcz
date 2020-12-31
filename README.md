@@ -54,7 +54,7 @@ Here are some easy tricks to ensure your alpha-programmer dominance and become l
 - rather suffer with old C than do the same thing quickly in Pascal. [Real programmers don't use Pascal.](https://www.pbm.com/~lindahl/real.programmers.html)
 - real programmers don't use current summer meta JavaScript framework either.
    
-As of 2021 I literally want only one thing and guys at JetBrain's think it's fucking disgusting.   
+As of 2021 I literally want only one thing and guys at JetBrains think it's fucking disgusting.   
 <img src="https://i.postimg.cc/bN6CC7ks/image.png" width="600">  
 
    
