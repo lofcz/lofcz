@@ -2,7 +2,7 @@
 
 Sadly, this is not the town of Honeywood, but since you are here, enjoy this image with high shamanistic quality:
 
-[![typist-ascii-1.jpg](https://i.postimg.cc/Gmd81b9L/typist-ascii-1.jpg)](https://postimg.cc/qzDMsV8S)
+<img src="https://i.postimg.cc/Gmd81b9L/typist-ascii-1.jpg" width="400">
 
 I've grown tired of being fed with visual poison on mainstream social networks, so I've decided to run my own.  
 https://www.lancraft.cz/
