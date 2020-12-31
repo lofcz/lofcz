@@ -16,7 +16,7 @@ Writing compilers by night is an endless source of pleasure for me. Sadly, that 
 By day I work as a software engineer. Now for https://www.scio.cz/.  
 _All opinions are my own._  
 
-Once I've sumbited a PR which makes one argument in some NHibernate function optional. Now I can claim I'm a contributor of my favourite ORM.  
+Once I've sumbited a PR which makes one argument in some NHibernate function optional. They merged it. Now I can claim I'm a contributor of my favourite ORM.  
 
 I used to tinker around with Game Maker (6, 8, gay maker virus - fu** time to reinstall Windows, Studio, Studio 2 beta, lost track of it). I didn't like the black box so I've attempted to reimplement the engine using MonoGame. It almost works. It actually works (for a while) if you know what you are doing. It also leaks a lot of memory.  
 https://github.com/lofcz/SimplexRpgEngine  
