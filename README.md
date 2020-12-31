@@ -50,7 +50,7 @@ Here are some easy tricks to ensure your alpha-programmer dominance and become l
 - use `n << 2` instead of `n * 2`.
 - always question time complexity.
 - if that doesn't work question space complexity.
-- as a last resort you can always say that you would burn 3 MD on this algorith but if they want it, you'll do it.
+- as a last resort you can always say that you would burn 3 MD on this algorithm but if they want it, you'll do it.
 - rather suffer with old C than do the same thing quickly in Pascal. [Real programmers don't use Pascal.](https://www.pbm.com/~lindahl/real.programmers.html)
 - real programmers don't use current summer meta JavaScript framework either.
    
