@@ -35,6 +35,11 @@ https://templeos.org/ (we report to him, he reports to God)
 https://twitter.com/brutaldoomguy (cyka blyat, he still makes DOOM great again)  
 
 Apart from coding I play on a guitar. Started to learn it as a way to _link_ girls a few years ago, then realized that reverse polish notation doesn't need parentheses and I can evaluate 1 + 1 using a stack. At that moment I've stopped my Tinder Gold subscription and happily coded ever since.
+
+Once in a while I have to initiate not-yet-burnt-out youth souls to the miracles of programming. On such an occasion I'm often asked whether the slides could be presented in Powerpoint. To that I always reply we already have Powepoint at home.  
+Powerpoint at home:  
+[![image.png](https://i.postimg.cc/4xc5W6nK/image.png)](https://postimg.cc/689n3Grw)
+_About thread starvation and how everytime you write a sync IO method a kitten dies_
    
 New meta stats, useless but looks cool:  
 [![Stasts](https://github-readme-stats.vercel.app/api?username=lofcz&count_private=true&show_icons=true&theme=dark)](https://github.com/lofcz/github-readme-stats)
