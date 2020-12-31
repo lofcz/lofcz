@@ -20,7 +20,10 @@ Once I've sumbited a PR which makes one argument in some NHibernate function opt
 
 I used to tinker around with Game Maker (6, 8, gay maker virus - time to reinstall Windows, Studio, Studio 2 beta, lost track of it). I didn't like the black box so I've attempted to reimplement the engine using MonoGame. It almost works. It actually works (for a while) if you know what you are doing. It also leaks a lot of memory.  
 https://github.com/lofcz/SimplexRpgEngine  
-
+_Note: real deal stuff from Mark Overmars: https://www.researchgate.net/publication/27700672_Maintaining_2-_and_3-connected_components_in_graphs_Part_I_2-_and_3-edge-connected_components_
+  
+My favourite game engine now is Libre Office - https://www.youtube.com/watch?v=L56azbL3DjA&ab_channel=quwex  
+  
 On lonely nights I used to play CS:GO with my friends until I've decided that Gold Nova 1 is definitely not the right rank for me, pasted all the public snipets from UnknownCheats to my fork of Osiris and submited iconic PR#2074 which is well known in cheaters community now. With naive bruteforcing it can outplay almost any russian potato computer in public matchmaking. Now I have no friends willing to play with me. Fun fact: I've played on my main account with a simple external private I've coded for 200+ hours and I'm still not banned. One famous Polish YouTuber wasted willingly his time and shot an interview with me about the cheat.  
 https://github.com/danielkrupinski/Osiris/pull/2074  
 
