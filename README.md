@@ -9,7 +9,7 @@ https://www.lancraft.cz/
 
 About 10 000 poor souls decided to join, for some unknown reason. Now instead of getting away with fast-food quality code and sql queries I have to spend most of my time optimizing, so we can continue sending emojis and nudes each to other. The worst part is that everytime a hot girl is about to send me such a perfect pic, she somehow missclicks and I receive a bug report instead. It's annoying but I give them the benefit of the doubt.
 
-Generally I use M$ technologies and I love them. But everytime I start to like the company too much, they are swift to slap me in the face with _This repository is now Archived (flashbacks from ~~Vietnam~~, Silverlight, ASP MVC_ or _It looks like your Sql Server is outdated, would you like to sell your other kidney and upgrade?_
+Generally I use M$ technologies and I love them. But everytime I start to like the company too much, they are swift to slap me in the face with _This repository is now Archived (flashbacks from ~~Vietnam~~, Silverlight, ASP MVC)_ or _It looks like your Sql Server is outdated, would you like to sell your other kidney and upgrade?_
 
 Writing compilers by night is an endless source of pleasure for me. Sadly, that cannot be said about the end users of them. I like to lure them with innocent _Look the syntax is so simple, you can do it_ and then leave them to fight inner demons of the documentation. 
 
