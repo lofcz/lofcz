@@ -43,6 +43,16 @@ Once in a while I have to initiate not-yet-burnt-out youth souls to the miracles
 Powerpoint at home:  
 [![image.png](https://i.postimg.cc/4xc5W6nK/image.png)](https://postimg.cc/689n3Grw)
 _About thread starvation and how everytime you write a sync IO method a kitten dies_
+
+Here are some easy tricks to ensure your alpha-programmer dominance and become leader of the pack:
+- use `xor eax, eax` instead of `mov eax, 0`.
+- use `-~n` instead of `n + 1`.
+- use `n << 2` instead of `n * 2`.
+- always question time complexity.
+- if that doesn't work question space complexity.
+- as a last resort you can always say that you would burn 3 MD on this algorith but if they want it, you'll do it.
+- rather suffer with old C than do the same thing quickly in Pascal. [Real programmers don't use Pascal.](https://www.pbm.com/~lindahl/real.programmers.html)
+- real programmers don't use current summer meta JavaScript framework either.
    
 New meta stats, useless but looks cool:  
 [![Stasts](https://github-readme-stats.vercel.app/api?username=lofcz&count_private=true&show_icons=true&theme=dark)](https://github.com/lofcz/github-readme-stats)
