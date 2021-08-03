@@ -36,6 +36,8 @@ https://bellard.org/ (this guy is definitely an alien)
 https://twitter.com/id_aa_carmack (almost invented 0x5F3759DF)  
 https://templeos.org/ (we report to him, he reports to God)  
 https://twitter.com/brutaldoomguy (cyka blyat, he still makes DOOM great again)  
+https://templeos.org/ (we report to him, he reports to God)  
+http://david.loyc.net/ c# from ever distant future
 
 Apart from coding I play on a guitar. Started to learn it as a way to _link_ girls a few years ago, then realized that reverse polish notation doesn't need parentheses and I can evaluate 1 + 1 using a stack. At that moment I've stopped my Tinder Gold subscription and happily coded ever since.
 
