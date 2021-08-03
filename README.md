@@ -67,4 +67,3 @@ _I dedicate all my FOSS software to Terry A. Davis
 The CIA might glow but you will shine forever._
 
 [![tenor-1.gif](https://i.postimg.cc/G2Fnrn4R/tenor-1.gif)](https://postimg.cc/dkVxmXRN)
-[![tenor-1.gif](https://i.postimg.cc/G2Fnrn4R/tenor-1.gif)](https://postimg.cc/dkVxmXRN)
