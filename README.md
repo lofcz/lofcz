@@ -11,7 +11,7 @@ About 10 000 poor souls decided to join, for some unknown reason. Now instead of
 
 Generally I use M$ technologies and I love them. But everytime I start to like the company too much, they are swift to slap me in the face with _This repository is now Archived (flashbacks from ~~Vietnam~~, Silverlight, ASP MVC)_ or _It looks like your Sql Server is outdated, would you like to sell your other kidney and upgrade?_
 
-Writing compilers by night is an endless source of pleasure for me. Sadly, that cannot be said about the end users of them. I like to lure them with innocent _Look the syntax is so simple, you can do it_ and then leave them to fight inner demons of the documentation. 
+Writing [interprets / compilers](https://github.com/lofcz/sxscript) by night is an endless source of pleasure for me. Sadly, that cannot be said about the end users of them. I like to lure them with innocent _Look the syntax is so simple, you can do it_ and then leave them to fight inner demons of the documentation. 
 
 By day I work as a software engineer. Now for https://www.scio.cz/.  
 _All opinions are my own._  
