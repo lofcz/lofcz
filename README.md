@@ -5,7 +5,7 @@ and day after even good!
 If you still want more - I'll make it,  
 from past inspiration take it,  
 turning food for thought to food._  
-<span>- Nietzsche</span>
+<em>- Nietzsche</em>
 
 ### Dedication
 
