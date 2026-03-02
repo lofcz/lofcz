@@ -63,6 +63,8 @@ Fastest JSON5 (de)serializer for modern .NET Core. Fast, conformant, and polymor
 <b>Research</b>
 </td>
 <td width="65%" align="left" valign="top">
+<a href="https://github.com/lofcz/legie_decomp"><b>LEGIE decomp</b></a><br>
+Matching decompilation of a classic game from 2009, written in Borland Delphi 7 with GLScene & FMOD. Fully unpacked exe, data, playable main menu. Custom ASM matcher built around capstone, pefile.<br><br>
 <a href="https://github.com/lofcz/thirdeye"><b>ThirdEye</b></a><br>
 Usermode <code>WDA_MONITOR</code>/<code>WDA_EXCLUDEFROMCAPTURE</code> bypasser using undocumented Windows functions with C# bindings. Starring: PEB walking, Halo's Gate, Custom PE sections, EDR/AV evasion, Direct syscalls.<br><br>
 <a href="https://github.com/lofcz/fasthungarian"><b>FastHungarian</b></a><br>
