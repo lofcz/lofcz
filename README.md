@@ -24,7 +24,7 @@ turning food for thought to food.
 </td>
 <td width="65%" align="left" valign="top">
 <a href="https://github.com/lofcz/llmtornado"><b>LLMTornado</b></a><br>
-The .NET library to build AI agents with 25+ built-in connectors, featured in Microsoft's .NET & AI community standup and dotInsights by JetBrains. Over 500 stars on GitHub.<br><br>
+The .NET library to build AI agents with 30+ built-in connectors, featured in Microsoft's .NET & AI community standup and dotInsights by JetBrains. Over 600 stars on GitHub.<br><br>
 <a href="https://github.com/lofcz/ai-music-detector"><b>AI Music Detector</b></a><br>
 As of 2026, the SOTA <a href="https://huggingface.co/lofcz/ai-music-detector">model</a> & inference library for detecting Suno/Udio generated music, exploiting deconvolution artifacts. Architecture: Cepstral CQT CNN.<br><br>
 <a href="https://github.com/lofcz/asri"><b>ASRi</b></a><br>
@@ -40,7 +40,7 @@ MCP filesystem server optimized for Agentic usage with intelligent file paginati
 </td>
 <td width="65%" align="left" valign="top">
 <a href="https://github.com/lofcz/fastcloner"><b>FastCloner</b></a><br>
-The fastest deep cloning library for .NET with a hybrid source generator/runtime reflection fallback architecture. Handles many complicated scenarios out of the box, with over 200,000 installations on NuGet.<br><br>
+The fastest deep cloning library for .NET with a hybrid source generator/runtime reflection fallback architecture. Handles many complicated scenarios out of the box, with over 500,000 installations on NuGet. Used by: Foundatio, SnapX, TarkovSP, WinPalleter, and many other projects.<br><br>
 <a href="https://github.com/lofcz/infidex"><b>Infidex</b></a><br>
 The high-performance .NET search engine based on pattern recognition with unparalleled typo tolerance. Features BM25+ backbone, FST, Roaring Bitmaps, Elias-Fano, and thread-safe incremental indexing model.<br><br>
 <a href="https://github.com/lofcz/tinyimage"><b>TinyImage</b></a><br>
